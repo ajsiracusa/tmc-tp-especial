@@ -1,2 +1,2 @@
-# tmc-tp-especial
-Computational mathmatics course final work
+# SIRACUSA, Angel Jonatán - TMC - TP Especial
+Computational mathmatics course final work.
